@@ -1,0 +1,31 @@
+_repo: An-alphabetical-catalogue-of-books-in-fiction-and-general-literature-Sept-1899-b-Chatto-Windu__73530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chatto & Windus (Firm)
+    aliases:
+    - Chatto and Windus (Firm)
+    - Windus, Chatto &
+    gutenberg_agent_id: '6326'
+    url: http://www.gutenberg.org/2009/agents/6326
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73530'
+language: en
+pgterms:marc905: 20140510085321ashton
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Carol Brown, Chris Curnow and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto & Windus, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'An alphabetical catalogue of books in fiction and general literature, Sept.
+  1899 : $b Chatto & Windus, publisher'
+url: http://www.gutenberg.org/ebooks/73530
